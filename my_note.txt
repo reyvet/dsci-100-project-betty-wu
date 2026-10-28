@@ -1,1 +1,7 @@
 A scratchpad for ideas and thoughts
+
+Research question(preditive):
+- Can we predict a team's tournament finish using its conference win percentage, regional win percentage, and seed number?
+- Can we predict whether a team receives an automatic bid or an at-large bid using its seed and conference informations?
+- Can we predict if a team will lose in the opening round of the tournament using its total win percentage and conference rank?
+- Can we predict a team's number of tournament wins from its seed and regional win percentage?
